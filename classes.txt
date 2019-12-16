@@ -1,0 +1,13 @@
+Plant
+5 attributes
+1. color (string)
+2. health (boolean)
+3. soil (string)
+4. height (string)
+5. dead leaves (boolean)
+
+4 methods
+1. waterPlant (effect to color health "yes" and height)
+2. replaceSoil (effect to soil, health "yes" and height)
+3. cutDeadleaves (sets dead leaves to "no")
+4. exposeTosun (effect to height, health "yes" and color)
